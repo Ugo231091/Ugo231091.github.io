@@ -1,7 +1,7 @@
 ---
 title: "Analyses des ventes d'une librairie en ligne "
 layout: post
-tag: Python,
+tag: Python
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
