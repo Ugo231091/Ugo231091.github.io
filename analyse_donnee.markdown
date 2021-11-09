@@ -2,7 +2,7 @@
 title: "Analyses des ventes d'une librairie en ligne "
 layout: post
 tag: Python
-image: assets/images/Analyse-ventes-librairie/3_CA_Moyen.png
+image: https://github.com/Ugo231091/Ugo231091.github.io/blob/4175f617a8af097302f79b67f01c36b9a44d13c0/assets/images/Analyse-ventes-librairie/3_CA_Moyen.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
