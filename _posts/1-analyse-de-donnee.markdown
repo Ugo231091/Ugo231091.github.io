@@ -2,7 +2,7 @@
 title: "Analyse des ventes d'une librairie en Python"
 layout: post
 tag: python
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://github.com/Ugo231091/Analyse-des-ventes-librairie-/blob/main/images/Lapage-logo.png?raw=true
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -12,7 +12,9 @@ author: ugovigezzi
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![](assets/images/Analyse-ventes-librairie/8_CA_categ.png)
+
+
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
