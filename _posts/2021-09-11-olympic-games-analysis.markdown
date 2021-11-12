@@ -2,7 +2,7 @@
 title: "Olympic games analysis"
 layout: post
 tag: powerbi , sql
-image: https://github.com/Ugo231091/Olympic_games_analysis/blob/8dc9f0e701d64a47216e675e11c8d01e1ee4b185/pictures/Olympic_rings_without_rims.svg.png
+image: https://github.com/Ugo231091/Olympic_games_analysis/blob/8dc9f0e701d64a47216e675e11c8d01e1ee4b185/pictures/Olympic_rings_without_rims.svg.png?raw=true
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -27,12 +27,12 @@ The main task is still to show historical performance for different countries, w
 ## SQL code 
 
 <p align="center">
-  <img src="https://github.com/Ugo231091/Ugo231091.github.io/blob/628f3959f345c1c290a01536bb6417b2bcf71e16/assets/images/olympic_games/sql%20.png"/>
+  <img src="https://github.com/Ugo231091/Ugo231091.github.io/blob/628f3959f345c1c290a01536bb6417b2bcf71e16/assets/images/olympic_games/sql%20.png?raw=true"/>
 </p>
 
 
 ## Dashboard
 
 <p align="center">
-  <img src="https://github.com/Ugo231091/Olympic_games_analysis/blob/8dc9f0e701d64a47216e675e11c8d01e1ee4b185/pictures/Dashboard.png"/>
+  <img src="https://github.com/Ugo231091/Olympic_games_analysis/blob/8dc9f0e701d64a47216e675e11c8d01e1ee4b185/pictures/Dashboard.png?raw=true"/>
 </p>
