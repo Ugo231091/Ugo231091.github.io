@@ -13,7 +13,7 @@ externalLink: false
 ---
 
 <p align="center">
-  <img alt="Light" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/8b02f43242ab7a7a3e99251ca63b274e115194b0/assets/images/detection-faux-billet/distplot_2.png" width="45%">
+  <img alt="Light" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/8b02f43242ab7a7a3e99251ca63b274e115194b0/assets/images/detection-faux-billet/distplot_2.png?raw=true" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/8b02f43242ab7a7a3e99251ca63b274e115194b0/assets/images/detection-faux-billet/Matrice%20de%20confusion.png" width="45%">
 </p>
