@@ -1,5 +1,5 @@
 ---
-title: "Detection de faux billets "
+title: "Detection de faux billets"
 layout: post
 tag: Tableau
 image: https://github.com/Ugo231091/DWFA-Tableau/blob/a819dbf6fc861961b3a98106dad8366e3417807d/Images/DWFA.png
