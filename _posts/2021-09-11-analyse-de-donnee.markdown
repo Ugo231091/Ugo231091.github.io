@@ -12,7 +12,13 @@ author: ugovigezzi
 externalLink: false
 ---
 
-![Screenshot](https://github.com/Ugo231091/Ugo231091.github.io/blob/4d86b2529ec3752b6ffc98b1e3509aa2b5f87f92/assets/images/Analyse-ventes-librairie/14_relation_CA_AGE.png)
+
+![Screenshot](https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/6_20_prod_CA.png)
+![Screenshot](https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/7_20_prod_vendu.png)
+![Screenshot](https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/2_Comp_CA_TOTAL_Client.png)
+![Screenshot](https://https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/18_pair_freq_CA.png)
+
+
 ## Résumé
 
 Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. L’entreprise souhaite faire le point après deux ans d’exercice, et pouvoir analyser ses points forts, ses points faibles, les comportements clients, etc.
