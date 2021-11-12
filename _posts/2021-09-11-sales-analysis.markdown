@@ -29,7 +29,7 @@ Let me know if you need anything else!
 ## Dashboard 
 
 <p align="center">
-  <img src="https://github.com/Ugo231091/Sales-Analysis/blob/f8c5cf8238d53c27047f72bbe5aca19837d18f00/PowerBI/Dashboard.png"/>
+  <img src="https://github.com/Ugo231091/Sales-Analysis/blob/f8c5cf8238d53c27047f72bbe5aca19837d18f00/PowerBI/Dashboard.png?raw=true"/>
 </p>
 
 
