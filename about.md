@@ -4,43 +4,32 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>J'utilise des outils technologiques actuels qui permettent de mieux appréhender les comportements des individus. 
+Je collecte des données, les nettoie pour finalement leur donner du sens au travers de cartographies ou encore d’analyses statistiques. Je travaille sur des sujets de prospectives pour prévoir les déplacements de demain.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Également, je veille à comprendre la vision sociétale qui est portée par nos interlocuteurs et les enjeux des projets de transports qui vont être mis en place, je cherche toujours à vérifier auprès du mandataire que le projet souhaité répond bien aux objectifs qu’il s’est fixé.
+Pour la réalisation de mon travail, j'aborde mes sujets avec une approche rationnelle, en étant lucide sur mes capacités en identifiant les points bloquants qui pourraient survenir.
 
-<h2>Skills</h2>
+Je suis quelqu’un qui aime travailler en équipe, apprendre des autres et confronter les points de vues pour faire émerger des nouvelles solutions.
+J’accepte la critique et je vais exprimer mon potentiel dans un environnement bienveillant où la communication est simple et directe.</p>
+
+<h2>Compétences</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>SQL</li>
+	<li>QGIS</li>
+	<li>Tableau</li>
+	<li>PowerBi</li>
+	<li>KNIME</li>
+	<li>Excel</li>
+	<li>Machine learning</li>
+	<li>Modélisation</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Contact</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>vigezzi.ugo@gmail.com</li>
+	<li>06 88 09 20 61</li>
 </ul>
