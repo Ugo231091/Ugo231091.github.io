@@ -2,7 +2,7 @@
 title: "Drinking water for all"
 layout: post
 tag: Tableau
-image: https://github.com/Ugo231091/DWFA-Tableau/blob/a819dbf6fc861961b3a98106dad8366e3417807d/Images/DWFA.png
+image: https://github.com/Ugo231091/DWFA-Tableau/blob/a819dbf6fc861961b3a98106dad8366e3417807d/Images/DWFA.png?raw=true
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
