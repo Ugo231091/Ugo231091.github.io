@@ -2,7 +2,7 @@
 title: "Olympic games analysis"
 layout: post
 tag: powerbi , sql
-image: https://github.com/Ugo231091/Olympic_games_analysis/blob/8dc9f0e701d64a47216e675e11c8d01e1ee4b185/pictures/Olympic_rings_without_rims.svg.png?raw=true
+image: https://raw.githubusercontent.com/Ugo231091/Olympic_games_analysis/8dc9f0e701d64a47216e675e11c8d01e1ee4b185/pictures/Olympic_rings_without_rims.svg.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
