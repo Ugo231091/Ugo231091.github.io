@@ -14,23 +14,29 @@ externalLink: false
 
 ![](assets/images/Analyse-ventes-librairie/8_CA_categ.png)
 
+## Résumé
 
+Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. L’entreprise souhaite faire le point après deux ans d’exercice, et pouvoir analyser ses points forts, ses points faibles, les comportements clients, etc.
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Cette analyse va être découpée en deux parties :
 
----
+Une analyse des différents indicateurs de vente.
+Une analyse plus ciblée sur les clients.
 
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+![](assets/images/Analyse-ventes-librairie/16_moust_age_categ.png) ![](assets/images/Analyse-ventes-librairie/2_Comp_CA_TOTAL_Client.png) ![]assets/images/Analyse-ventes-librairie/6_20_prod_CA.png)
 
 ---
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+## Compétences démontrées
+
+- Python 
+- Pandas
+- Data Viz
+- Seaborn 
+- Matplotlib
+- Scipy
+
+---
+
+### [Lien vers le notebook](https://github.com/Ugo231091/Analyse-des-ventes-librairie-/blob/main/Analyse_ventes_librairie_Lapage.ipynb)
+
