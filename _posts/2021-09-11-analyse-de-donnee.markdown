@@ -12,8 +12,7 @@ author: ugovigezzi
 externalLink: false
 ---
 
-![](assets/images/Analyse-ventes-librairie/8_CA_categ.png)
-
+![Screenshot](assets/images/Analyse-ventes-librairie/8_CA_categ.png)
 ## Résumé
 
 Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. L’entreprise souhaite faire le point après deux ans d’exercice, et pouvoir analyser ses points forts, ses points faibles, les comportements clients, etc.
