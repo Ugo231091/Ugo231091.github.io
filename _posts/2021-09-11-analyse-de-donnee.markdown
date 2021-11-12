@@ -12,12 +12,17 @@ author: ugovigezzi
 externalLink: false
 ---
 
+<p align="center">
+  <img alt="Light" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/6_20_prod_CA.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/7_20_prod_vendu.png" width="45%">
+</p>
 
-![Screenshot](https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/6_20_prod_CA.png)
-![Screenshot](https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/7_20_prod_vendu.png)
-![Screenshot](https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/2_Comp_CA_TOTAL_Client.png)
-![Screenshot](https://https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/18_pair_freq_CA.png)
-
+<p align="center">
+  <img alt="Light" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/6f5630c0703e15701757c488d7e9dcb1e3363477/assets/images/Analyse-ventes-librairie/2_Comp_CA_TOTAL_Client.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/ef0ac4a85b2123d281a10a339542fb6385282106/assets/images/Analyse-ventes-librairie/1_CA_journalier.png" width="45%">
+</p>
 
 ## Résumé
 
