@@ -15,11 +15,11 @@ externalLink: false
 <p align="center">
   <img alt="Light" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/8b02f43242ab7a7a3e99251ca63b274e115194b0/assets/images/detection-faux-billet/distplot_2.png?raw=true" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/8b02f43242ab7a7a3e99251ca63b274e115194b0/assets/images/detection-faux-billet/Matrice%20de%20confusion.png" width="45%">
+  <img alt="Dark" src=https://github.com/Ugo231091/Ugo231091.github.io/blob/8b02f43242ab7a7a3e99251ca63b274e115194b0/assets/images/detection-faux-billet/Matrice%20de%20confusion.png?raw=true" width="45%">
 </p>
 
 <p align="center">
-  <img alt="Light" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/da99be16e2c7c7e741f2c37cf66c3ddaaa127e92/assets/images/detection-faux-billet/PairGrid.png" width="60%">
+  <img alt="Light" src="https://github.com/Ugo231091/Ugo231091.github.io/blob/da99be16e2c7c7e741f2c37cf66c3ddaaa127e92/assets/images/detection-faux-billet/PairGrid.png?raw=true" width="60%">
 </p> 
 
 ## Résumé
