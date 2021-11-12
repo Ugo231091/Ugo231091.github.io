@@ -1,7 +1,7 @@
 ---
 title: "Sales Analysis"
 layout: post
-tag: python
+tag: powerbi , sql
 image: 
 headerImage: false
 projects: true
