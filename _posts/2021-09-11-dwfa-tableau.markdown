@@ -83,6 +83,6 @@ utilisée sur Tableau.
 ## Extrait de l'histoire Tableau 
 
 <p align="center">
-  <img src="'https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DW&#47;DWFA_16364682880280&#47;Histoire1&#47;1_rss.png"/>
+  <img src="https://github.com/Ugo231091/Ugo231091.github.io/blob/gh-pages/assets/images/DWFA/DWFA_Tableau.png?raw=true"/>
 </p>
 
