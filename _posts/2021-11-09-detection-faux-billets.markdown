@@ -1,5 +1,5 @@
 ---
-title: "Detection de faux billets "
+title: "Détection de faux billets "
 layout: post
 tag: python
 image: https://github.com/Ugo231091/Detection-faux-billets/blob/d5ebebd7c975316b62a5ba0f26e5a56e6c036e51/images/ONCFM-logo.png?raw=true
