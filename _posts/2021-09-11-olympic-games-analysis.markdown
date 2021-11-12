@@ -21,5 +21,5 @@ The main task is still to show historical performance for different countries, w
 ## Dashboard
 
 <p align="center">
-  <img src="pictures/Dashboard.png"/>
+  <img src="https://github.com/Ugo231091/Olympic_games_analysis/blob/8dc9f0e701d64a47216e675e11c8d01e1ee4b185/pictures/Dashboard.png"/>
 </p>
