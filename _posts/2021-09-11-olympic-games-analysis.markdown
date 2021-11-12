@@ -18,6 +18,19 @@ As a data analyst working at a news company you are asked to visualize data that
 You also know that there is an interest in details about the competitors, so if you find anything interesting then don’t hesitate to bring that in also. 
 The main task is still to show historical performance for different countries, with the possibility to select your own country.
 
+## Skills involved
+
+- SQL
+- Power Bi
+- Data Viz
+
+## SQL code 
+
+<p align="center">
+  <img src="https://github.com/Ugo231091/Ugo231091.github.io/blob/628f3959f345c1c290a01536bb6417b2bcf71e16/assets/images/olympic_games/sql%20.png"/>
+</p>
+
+
 ## Dashboard
 
 <p align="center">
