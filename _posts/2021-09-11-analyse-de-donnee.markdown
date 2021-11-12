@@ -33,8 +33,6 @@ Cette analyse va être découpée en deux parties :
 Une analyse des différents indicateurs de vente.
 Une analyse plus ciblée sur les clients.
 
-![](assets/images/Analyse-ventes-librairie/16_moust_age_categ.png) ![](assets/images/Analyse-ventes-librairie/2_Comp_CA_TOTAL_Client.png) ![]assets/images/Analyse-ventes-librairie/6_20_prod_CA.png)
-
 ---
 
 ## Compétences démontrées
