@@ -27,12 +27,12 @@ The main task is still to show historical performance for different countries, w
 ## SQL code 
 
 <p align="center">
-  <img src="https://github.com/Ugo231091/Ugo231091.github.io/blob/628f3959f345c1c290a01536bb6417b2bcf71e16/assets/images/olympic_games/sql%20.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/Ugo231091/Ugo231091.github.io/628f3959f345c1c290a01536bb6417b2bcf71e16/assets/images/olympic_games/sql%20.png"/>
 </p>
 
 
 ## Dashboard
 
 <p align="center">
-  <img src="https://github.com/Ugo231091/Olympic_games_analysis/blob/8dc9f0e701d64a47216e675e11c8d01e1ee4b185/pictures/Dashboard.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/Ugo231091/Olympic_games_analysis/8dc9f0e701d64a47216e675e11c8d01e1ee4b185/pictures/Dashboard.png"/>
 </p>
